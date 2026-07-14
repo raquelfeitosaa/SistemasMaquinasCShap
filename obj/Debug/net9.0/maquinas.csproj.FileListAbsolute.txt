@@ -1,0 +1,14 @@
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\bin\Debug\net9.0\maquinas.exe
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\bin\Debug\net9.0\maquinas.deps.json
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\bin\Debug\net9.0\maquinas.runtimeconfig.json
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\bin\Debug\net9.0\maquinas.dll
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\bin\Debug\net9.0\maquinas.pdb
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\obj\Debug\net9.0\maquinas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\obj\Debug\net9.0\maquinas.AssemblyInfoInputs.cache
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\obj\Debug\net9.0\maquinas.AssemblyInfo.cs
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\obj\Debug\net9.0\maquinas.csproj.CoreCompileInputs.cache
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\obj\Debug\net9.0\maquinas.dll
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\obj\Debug\net9.0\refint\maquinas.dll
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\obj\Debug\net9.0\maquinas.pdb
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\obj\Debug\net9.0\maquinas.genruntimeconfig.cache
+C:\Users\Raquel\Desktop\SistemaMaquina\maquinas\obj\Debug\net9.0\ref\maquinas.dll
