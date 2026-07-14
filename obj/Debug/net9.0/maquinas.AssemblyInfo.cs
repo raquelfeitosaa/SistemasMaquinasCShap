@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maquinas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66f7d359536d278cb2ef4c2e1f0bf77802e7e40b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84c55fb974aa3f55f26ed1e18c7ed6c0263ad418")]
 [assembly: System.Reflection.AssemblyProductAttribute("maquinas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maquinas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
